@@ -1,0 +1,22 @@
+@import url('https://fonts.googleapis.com/css2?family=Carlito&family=Jacques+Francois&family=Jaldi&family=Kavoon&family=Libre+Baskerville:wght@700&family=Mogra&family=PT+Serif:wght@700&family=Playfair+Display&family=Roboto+Mono:ital,wght@1,600&family=Roboto:ital,wght@0,300;1,400&display=swap');
+
+button{
+font-family: "Roboto Mono", sans-serif ;
+   background-color: rgb(25, 0, 255);
+   border: 0;
+   color:rgb(233, 240, 235);
+   font-size: 40px;
+   border-radius: 30px;
+   
+
+}
+body{
+    background-color:rgb(250, 247, 247);
+    align-items: center;
+   position: relative;
+    top: 400px;
+    left: 750px;
+}
+
+      
+    
